@@ -83,20 +83,3 @@ $ ssh-keygen -lf id_rsa.pub
 
 ## (Step 2) サーバーへ公開鍵を登録
 
-
-## P.S
-This is randomart which enables us to 
-```
-The key's randomart image is:
-+---[RSA 2048]----+
-|    .+.o..       |
-|  . XXXXX        |
-|   * o.o .       |
-|E XXXXXXXXXXXXXX |
-| +   =XXXX       |
-|  . o XXXXXXX    |
-| XXXXXXXXXXXX    |
-|     +o B.XXX    |
-|     o*+.=XXXXX  |
-+----[SHA256]-----+
-```
